@@ -1,3 +1,4 @@
 ipython
 jupyter
-pandas
+python-dotenv
+jupyter-compare-view
