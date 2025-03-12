@@ -33,7 +33,6 @@
 
         postVenvCreation = ''
           unset SOURCE_DATE_EPOCH
-          pip install -r requirements.txt
         '';
       };
     }
