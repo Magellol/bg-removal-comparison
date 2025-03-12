@@ -3,3 +3,4 @@ jupyter
 python-dotenv
 jupyter-compare-view
 rembg[cpu]
+huggingface_hub
